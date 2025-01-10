@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdfmerger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d4e61e7a6b7038d1598e9e1f49acae1c6378a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e335e12eb3a6eb9ff8fdabd22082740584a61a2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdfmerger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdfmerger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

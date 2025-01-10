@@ -1,0 +1,2 @@
+/Users/chr/projects/pdfmerger/bin/Release/net8.0/win-x64/publish/pdfmerger.pdb
+/Users/chr/projects/pdfmerger/bin/Release/net8.0/win-x64/publish/pdfmerger.exe
